@@ -1,0 +1,101 @@
+2025-04-01 13:08:14 - INFO - Logging is configured and ready.
+2025-04-01 13:08:50 - INFO - Logging is configured and ready.
+2025-04-01 13:08:50 - INFO - Started processing file: student_scores.csv
+2025-04-01 13:08:50 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 13:08:50 - INFO - Finished processing file: student_scores.csv
+2025-04-01 13:18:19 - INFO - Logging is configured and ready.
+2025-04-01 13:18:19 - INFO - Logging is configured and ready.
+2025-04-01 13:18:19 - INFO - Started processing file: student_scores.csv
+2025-04-01 13:18:19 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 13:18:19 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:12:22 - INFO - Logging is configured and ready.
+2025-04-01 14:12:22 - INFO - Logging is configured and ready.
+2025-04-01 14:12:22 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:12:22 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:12:22 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:12:24 - ERROR - File not found: student_scores
+2025-04-01 14:12:24 - ERROR - File not found: rounded_hours_student_scores
+2025-04-01 14:13:42 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:13:42 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:13:42 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:13:42 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:13:42 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:13:42 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:18:43 - INFO - Logging is configured and ready.
+2025-04-01 14:18:43 - INFO - Logging is configured and ready.
+2025-04-01 14:18:43 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:18:43 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:18:43 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:18:44 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:18:44 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:18:44 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:18:44 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:18:44 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:18:44 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:19:00 - INFO - Logging is configured and ready.
+2025-04-01 14:19:00 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:19:00 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:19:00 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:19:18 - INFO - Logging is configured and ready.
+2025-04-01 14:19:18 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:19:18 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:19:18 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:19:22 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:19:22 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:19:22 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:19:22 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:19:22 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:19:22 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:20:40 - INFO - Logging is configured and ready.
+2025-04-01 14:20:40 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:20:40 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:20:40 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:20:42 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:20:42 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:20:42 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:20:42 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:20:42 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:20:42 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:22:39 - INFO - Logging is configured and ready.
+2025-04-01 14:24:07 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:24:07 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:24:07 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:24:07 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:24:07 - INFO - Final Mean Value for student_scores.csv: 51.48
+2025-04-01 14:24:07 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:24:07 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:24:07 - INFO - Final Mean Value for rounded_hours_student_scores.csv: 46.43333333333333
+2025-04-01 14:24:51 - INFO - Logging is configured and ready.
+2025-04-01 14:24:53 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:24:53 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:24:53 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:24:53 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:24:53 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:24:53 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:24:53 - INFO - Final Mean Value for rounded_hours_student_scores.csv: 46.43333333333333
+2025-04-01 14:24:53 - INFO - Final Mean Value for student_scores.csv: 51.48
+2025-04-01 14:26:03 - INFO - Logging is configured and ready.
+2025-04-01 14:26:04 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:26:04 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:26:04 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:26:04 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:26:04 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:26:04 - INFO - Final Mean Value for student_scores.csv: 51.48
+2025-04-01 14:26:04 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:26:04 - INFO - Final Mean Value for rounded_hours_student_scores.csv: 46.43333333333333
+2025-04-01 14:26:32 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:26:32 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:26:32 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:26:32 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:26:32 - INFO - Final Mean Value for student_scores.csv: 51.48
+2025-04-01 14:26:32 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:26:32 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:26:32 - INFO - Final Mean Value for rounded_hours_student_scores.csv: 46.43333333333333
+2025-04-01 14:28:04 - INFO - Started processing file: student_scores.csv
+2025-04-01 14:28:04 - INFO - Started processing file: rounded_hours_student_scores.csv
+2025-04-01 14:28:04 - INFO - Successfully calculated mean for column 'Scores' in student_scores.csv. Mean: 51.48
+2025-04-01 14:28:04 - INFO - Finished processing file: student_scores.csv
+2025-04-01 14:28:04 - INFO - Successfully calculated mean for column 'Scores' in rounded_hours_student_scores.csv. Mean: 46.43333333333333
+2025-04-01 14:28:04 - INFO - Final Mean Value for student_scores.csv: 51.48
+2025-04-01 14:28:04 - INFO - Finished processing file: rounded_hours_student_scores.csv
+2025-04-01 14:28:04 - INFO - Final Mean Value for rounded_hours_student_scores.csv: 46.43333333333333

@@ -1,0 +1,8 @@
+CREATE DATABASE usage_1;
+USE usage_1;
+CREATE TABLE sales (sale_id INT PRIMARY KEY,sale_date DATE,amount DECIMAL(10,2));
+INSERT INTO sales (sale_id, sale_date, amount) VALUES(1, '2023-10-01', 100),(2, '2023-10-02', 200),(3, '2023-10-03', 150),(4, '2023-10-04', 300);
+SELECT*FROM sales;
+WITH OctoberSales AS (SELECT sale_date, amount FROM sales WHERE sale_date BETWEEN '2023-10-01' AND '2023-10-31')
+SELECT sale_date,amount,SUM(amount) OVER (ORDER BY sale_date) AS running_total
+FROM OctoberSales;
